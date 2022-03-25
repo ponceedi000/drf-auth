@@ -2,7 +2,7 @@
 
 **Authors**: Ediberto Ponce
 **Version**: 1.0.0  
-**PR**: 
+**PR**: https://github.com/ponceedi000/drf-auth/pull/1
 
 ## Overview
 **Let’s move our API closer to production grade by adding Authentication and switching to a Production Server**
